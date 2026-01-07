@@ -1,0 +1,13 @@
+Date,Type,Category,Amount
+2024-01-01,Asset,Cash,500000
+2024-01-01,Asset,Accounts Receivable,200000
+2024-01-01,Asset,Inventory,150000
+2024-01-01,Liability,Loans,-300000
+2024-01-01,Liability,Accounts Payable,-100000
+2024-01-01,Equity,Owner Capital,450000
+2024-04-01,Asset,Cash,620000
+2024-04-01,Asset,Accounts Receivable,230000
+2024-04-01,Asset,Inventory,170000
+2024-04-01,Liability,Loans,-280000
+2024-04-01,Liability,Accounts Payable,-120000
+2024-04-01,Equity,Owner Capital,520000

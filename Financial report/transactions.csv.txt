@@ -1,0 +1,26 @@
+Date,AccountType,Category,Amount
+2024-01-01,Income,Sales,250000
+2024-01-05,Income,Service Revenue,120000
+2024-01-10,Expense,Salaries,-80000
+2024-01-12,Expense,Rent,-25000
+2024-01-15,Expense,Utilities,-15000
+2024-02-01,Income,Sales,270000
+2024-02-05,Income,Service Revenue,130000
+2024-02-10,Expense,Salaries,-82000
+2024-02-12,Expense,Rent,-25000
+2024-02-18,Expense,Marketing,-20000
+2024-03-01,Income,Sales,300000
+2024-03-05,Income,Service Revenue,150000
+2024-03-10,Expense,Salaries,-85000
+2024-03-12,Expense,Rent,-25000
+2024-03-20,Expense,Utilities,-18000
+2024-04-01,Income,Sales,320000
+2024-04-05,Income,Service Revenue,170000
+2024-04-10,Expense,Salaries,-90000
+2024-04-12,Expense,Rent,-25000
+2024-04-18,Expense,Marketing,-30000
+2024-05-01,Income,Sales,350000
+2024-05-05,Income,Service Revenue,190000
+2024-05-10,Expense,Salaries,-95000
+2024-05-12,Expense,Rent,-25000
+2024-05-20,Expense,Utilities,-20000
